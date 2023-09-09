@@ -1,9 +1,9 @@
-# 多彩图片墙
+# Colorful Picture Wall
 
-将之前学习的小 demo 拆开后，作为小项目单独提交上来。
+After dissecting a small demo I previously learned, I am submitting it as a standalone project.
 
-链接：https://lupanpan.github.io/picWall/
+Link: https://eloiselu.github.io/picWall/
 
-之前学习HTML5期间，从课工场看到这个案例，非常漂亮，模仿做了一下；
+During my HTML5 learning journey, I came across this case on Course Factory, and it looked incredibly beautiful. I decided to create a similar project.
 
-利用 HTML5+CSS3 实现的图片墙效果，鼠标移入每个图片时，由斜向的摆放转动为正向。
+This project features a picture wall effect implemented using HTML5 and CSS3. When you hover the mouse over each picture, it transitions from being skewed to a forward-facing orientation.
